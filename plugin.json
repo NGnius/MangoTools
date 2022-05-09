@@ -1,7 +1,12 @@
 {
-    "name": "Plugin name",
-    "author": "Plugin author",
+    "name": "MangoTools",
+    "author": "NGnius",
     "main_view_html": "main_view.html",
     "tile_view_html": "",
-    "flags": ["_hot_reload", "_root"]
+    "flags": ["debug", "_root"],
+    "publish": {
+        "discord_id": "106537989684887552",
+        "description": "Performance overlay tweaks",
+        "tags": [ "utility", "mangohud" ]
+    }
 }
